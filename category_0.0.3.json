@@ -1,0 +1,246 @@
+{
+    "meta": {
+        "itemsCount": 3,
+        "createdAt": {
+            "date": "2025-01-08",
+            "createdBy": "NJ",
+            "version": "0.0.1"
+        },
+        "updatedAt": {
+            "date": "2025-01-08",
+            "version": "0.0.3",
+            "info": "",
+            "updatedBy": "NJ"
+        }
+    },
+    "categories": [
+        {
+            "title": {
+                "ru": "Мужчинам"
+            },
+            "category": {
+                "ru": "Мужчинам/Спайдермен"
+            },
+            "categoryImage": {
+                "RU": "jumunona.com/3562351.jpg"
+            },
+            "unitWeight": 0.4,
+            "shuttleWeight": 0.5,
+            "width": 1,
+            "height": 2,
+            "length": 114,
+            "profit": {
+                "TJ": [
+                    1200,
+                    90,
+                    70,
+                    50,
+                    30
+                ],
+                "UZ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ]
+            },
+            "tax": {
+                "TJ": 20,
+                "UZ": 20
+            },
+            "catId": {
+                "f": "1037275",
+                "n": "122706005",
+                "d": "321"
+            },
+            "deliveryByTrain": true,
+            "deliveryByAir": false,
+            "bodyDataRequired": true,
+            "showBodyData": true,
+            "bodyData": {
+                "gender": true,
+                "age": true,
+                "height": true,
+                "weight": true,
+                "shoulder": true,
+                "chest": true,
+                "waist": true,
+                "hip": true,
+                "footLength": true,
+                "footWidth": true
+            }
+        },
+        {
+            "title": {
+                "ru": "Аксессуары"
+            },
+            "category": {
+                "ru": "Мужчинам/Аксессуары"
+            },
+            "categoryImage": {
+                "RU": ""
+            },
+            "unitWeight": 0.5,
+            "shuttleWeight": 0.5,
+            "width": 1,
+            "height": 2,
+            "length": 3,
+            "profit": {
+                "TJ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ],
+                "UZ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ]
+            },
+            "tax": {
+                "TJ": 20,
+                "UZ": 20
+            },
+            "catId": {
+                "f": "1037275",
+                "n": "122700006",
+                "d": "123"
+            },
+            "deliveryByTrain": true,
+            "deliveryByAir": false,
+            "bodyDataRequired": true,
+            "showBodyData": true,
+            "bodyData": {
+                "gender": true,
+                "age": true,
+                "height": true,
+                "weight": true,
+                "shoulder": true,
+                "chest": true,
+                "waist": true,
+                "hip": true,
+                "footLength": true,
+                "footWidth": true
+            }
+        },
+        {
+            "title": {
+                "ru": "Человек-паук"
+            },
+            "category": {
+                "ru": "Мужчинам/Человек-паук"
+            },
+            "categoryImage": {
+                "RU": ""
+            },
+            "unitWeight": 0.4,
+            "shuttleWeight": 0.5,
+            "width": 1,
+            "height": 77,
+            "length": 3,
+            "profit": {
+                "TJ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ],
+                "UZ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ]
+            },
+            "tax": {
+                "TJ": 20,
+                "UZ": 20
+            },
+            "catId": {
+                "f": "1745",
+                "n": "11112.0",
+                "d": "321"
+            },
+            "deliveryByTrain": true,
+            "deliveryByAir": false,
+            "bodyDataRequired": false,
+            "showBodyData": false,
+            "bodyData": {
+                "gender": false,
+                "age": false,
+                "height": false,
+                "weight": false,
+                "shoulder": false,
+                "chest": false,
+                "waist": false,
+                "hip": false,
+                "footLength": false,
+                "footWidth": false
+            }
+        },
+        {
+            "title": {
+                "ru": "Человек-паук"
+            },
+            "category": {
+                "ru": "Мужчинам/Человек-паук2"
+            },
+            "categoryImage": {
+                "RU": ""
+            },
+            "unitWeight": 0.4,
+            "shuttleWeight": 0.5,
+            "width": 12,
+            "height": 13,
+            "length": 54,
+            "profit": {
+                "TJ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ],
+                "UZ": [
+                    120,
+                    90,
+                    70,
+                    50,
+                    30
+                ]
+            },
+            "tax": {
+                "TJ": 20,
+                "UZ": 20
+            },
+            "catId": {
+                "f": "1745",
+                "n": "111|12.0",
+                "d": "321"
+            },
+            "deliveryByTrain": true,
+            "deliveryByAir": false,
+            "bodyDataRequired": false,
+            "showBodyData": false,
+            "bodyData": {
+                "gender": false,
+                "age": false,
+                "height": false,
+                "weight": false,
+                "shoulder": false,
+                "chest": false,
+                "waist": false,
+                "hip": false,
+                "footLength": false,
+                "footWidth": false
+            }
+        }
+    ]
+}
